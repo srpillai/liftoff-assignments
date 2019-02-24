@@ -7,11 +7,38 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+
+The Budget Manager [Budgetify]
+
+- This budget manager app is called “Budgetify” which allows to track personal expenses. Budget manager allows to create accounts through new user login. Users can create, view, track, modify and remove expenses. 
+
+- The budget manager can track personal expenses for weekly or monthly family budgeting needs.
+ 
+- This application will be similar to the “Blog” application. Instead of the blog posts this one creates an expense management system.
+
 ### Features
-Include Features here
+
+- User Login: Create a new user with authentication.
+- Create Expenses: Create a new item description and the amount to track.
+- Edit Expenses: Modify a created item.
+- Remove Expenses: Delete an already created item.
+- Search Expenses: Search an item by name or date.
+
+
 ### Technologies
-Include Technologies here
+
+- React
+- Redux
+- React Router
+- Firebase
+- App Deployment
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+
+    React, Redux, React Router and Firebase
+
+Project Tracker: 
+
+    Pivotal
+
+Enabled GitHub Issues: yes
